@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+.name-date-conatiner{
+  display: flex;
+  justify-content: center;
+}
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.line-div-container {
+  width: 70%;
+  height: 100%;
+  margin: auto;
+  margin-bottom: 2em;
+} */
+
+
+.bar-div-container {
+  width: 70%;
+  height: 100%;
+  margin: auto;
+  margin-bottom: 2em;
+}
+
+.highcharts-navigator{
+  display: none;
+}
+
+.highcharts-scrollbar{
+  display:none;
+}
+
+.highcharts-range-selector-group{
+  display: none;
+}
+
+canvas{
+  margin: 20px auto !important;
+  width: 70% !important;
+  height: 60% !important;
+}
+
+/* .name-date-conatiner {
+  display: inline-grid;
+} */
+
+/* .pick-user-cls {
+   width: 20%; 
+} */
+
+.pick-user-cls{
+  width: 160px;
+}
+
+.pick-chart-cls{
+  display:grid;
+  width: 160px;
+  margin: 10px;
+}
